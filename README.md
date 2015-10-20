@@ -1,1 +1,3 @@
-# maths-resources
+# Maths Resources
+
+Resources for maths.
